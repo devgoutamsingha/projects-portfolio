@@ -337,7 +337,7 @@ function CoverSlide() {
       </motion.div>
 
       <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2, duration: 0.6 }}>
-        <h1 className="text-6xl font-bold text-white mb-3 tracking-tight">Goutam</h1>
+        <h1 className="text-6xl font-bold text-white mb-3 tracking-tight">Goutam Singha</h1>
         <p className="text-white/50 text-lg mb-2">Full Stack Developer & Tech Lead</p>
         <div className="flex items-center justify-center gap-2 text-white/30 text-sm mb-10">
           <Code2 className="w-4 h-4" />
